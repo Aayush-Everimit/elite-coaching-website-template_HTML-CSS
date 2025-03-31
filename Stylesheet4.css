@@ -1,0 +1,191 @@
+#Header 
+{
+    background-image: linear-gradient(to right, red, green, 60%, yellow);
+    text-align: center;
+    text-decoration: underline;
+}
+#Dashboard 
+{
+    background-color: turquoise;
+    border: 4px solid red;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 20px;
+    display: block;
+    
+}
+#inter 
+{
+    text-align: center;
+}
+ul 
+{
+    display: inline-block;
+}
+#MainContent
+{
+    background-color: aquamarine;
+    border: 4px solid black;
+    font-size: 20px;
+    border-radius: 20px;
+    height: auto;
+    padding: 20px;
+    text-wrap: wrap;
+    display:flex;
+    flex-direction: column;
+}
+#Line1 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+#Box1
+{
+    background-color: lightblue;
+    border: 4px solid black;
+    font-size: 20px;
+    border-radius: 20px;
+    height: auto;
+    padding: 20px;
+}
+#Box2
+{
+    background-color: lightblue;
+    border: 4px solid black;
+    font-size: 20px;
+    border-radius: 20px;
+    height: auto;
+    padding: 20px;
+}
+#Box3
+{
+    background-color: lightblue;
+    border: 4px solid black;
+    font-size: 20px;
+    border-radius: 20px;
+    height: auto;
+}
+#Line2 {
+    display: flex;
+    justify-content: center;
+}
+#Box4 {
+    background-color: lightblue;
+    border: 4px solid black;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+}
+#Highlight
+{
+    background-image: linear-gradient(to right, red, green, 60%, yellow);
+    text-align: center;
+}
+#Result
+{
+    background-image: radial-gradient(circle, red, green, 60%, yellow);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#Result1
+{
+    background-color: yellow;
+    border: 4px solid black;
+    font-size: 20px;
+    border-radius: 20px;
+    height: auto;
+    padding: 20px;
+    flex:1 ;
+    gap : 20px;
+    margin: 40px;
+    text-wrap: wrap;
+    text-decoration: underline;
+}
+#Footer
+{
+    border: 2px solid black;
+    
+}
+#one{
+    display: flex;
+    flex-direction: row;
+    flex:1;
+    gap: 20px;
+}
+#Advertise1
+{
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    width: 100%;
+
+}
+#Advertise2
+{
+    background-color: lightgreen;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 350px;
+}
+#Advertise3
+{
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 350px;
+}
+#Advertise4
+{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 450px;
+}
+#Advertise6
+{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 1190px;
+}
+#Advertise7
+{
+    background-color: lightblue;
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    height: 30px;
+    width: 100%;
+}
+#Advertise5
+{
+    background-color: rgb(14, 14, 14);
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    height: 180px;
+    width: 280px;
+    padding: 20px;
+    text-decoration: underline;
+}
+#over
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 20px;
+}
